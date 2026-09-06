@@ -1,0 +1,63 @@
+relivling letter 
+saley slip 1-4 year - done
+experiance letter 
+promotions and increment letters and remaing letters
+tax forms, form 16
+provig fund certifical
+certificates
+F and F statement (final settlement letter)
+pf slips, pf passbook
+assets return letter
+insurance health copy
+final documentation no due ceryificate
+
+
+
+
+
+
+1. Experiance Letter
+2. Reliving Letter
+3. Salary Slips
+4. Form 16/ Tax declaration
+5. PF(Provident Fund) & UAN Details
+6. Increment Letters & Promotion Letter
+7. Clearance Letter - Shows that you have returned all assets and cleared dues
+
+
+
+Links : 
+
+Income tax department : https://www.incometaxindia.gov.in/
+Employees Provident Fund Organisation : http://epfindia.nic.in/
+Employees State Insurance Corporation : https://www.esic.nic.in/
+Tax Information Network-TIN : https://www.tin-nsdl.com/
+e-FILL Your TAX Return : https://incometaxindiaefiling.gov.in/
+
+
+Personal Details :
+
+Personal -
+	Name : SAKSHI ITAPE
+	Global-Id : 46251416
+	Corporate User ID : SITAPE
+	Official Email : sakshi.itape@capgemini.com
+
+Administrative ID -
+	PAN : ANKPI1794E
+	UAN : 101845996995
+
+Bank Details -
+	Bank : ICICI BANK LIMITED	
+	A/c No. : 729401501695
+	IFSC : ICIC0000002
+	
+Employment Details :
+
+	Entity Name : CAPGEMINI TECHNOLOGY SERVICES INDIA LIMITED
+	Global ID : 46251416	 
+	Date of Joining : 21/07/2022
+	PF_NO : MHBAN00187340000606027
+	EPF_NO : MHBAN00187340000606027	 
+	Grade : B1
+	Designation : Associate Consultant	 

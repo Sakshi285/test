@@ -1,0 +1,83 @@
+Link - github.com
+Content 
+    Create Repository
+    Git Installation
+        open command prompt
+        browser - gitforwindows download
+    Git clone
+        git clone <link>
+        cd GitClone
+        git remote -v
+
+command 
+    git <command> -h //use to learn or check more about thos command
+
+
+Commit
+    A set of saved repository changes
+    Commit is never lost
+    Commant has a hash key - unique key
+
+    command
+        git add . // add all the file changes
+        git commit -am "<comment>" // allow us to create common Commit
+        git log //see status/overview of project
+
+
+Staging // add file in commit queue
+    git add .
+    git add file1.txt file3.txt //if there are 3 files only 1 and 3 is commit 2nd file is not commited no matter it is changes or not
+    git reset <file name> //reset the filename which is commited i.e ji file commit keli ahe tichna mane takun reset command run keli ki ti file commit keleli jate nighun
+
+Branch
+    git branch // check branch names in current repositary - display avilable branches
+    git branch FeatureBranch //create a new branch
+    echo master branch > newFileMaster.txt //create a new file in master branch
+    git add .
+    git commit -m "Master branch commit"
+    git log
+    git checkout <branch name> //enter in perticular directory - switches to differnt branch
+    echo feature branch -> newFileFeatureBranch.txt
+    git add .
+    git commit -m "feature branch commit"
+    git log
+
+Checking status and inspecting commits
+    git show <copy hashkey and paste> //gives extensive commit info
+    git show --name-only <hash> //gives shorthand commit info
+    git reflog // gives info about all commits on all branches
+
+Push and Pull
+    git push <branch> // add code on git
+    git pull <branch> // retrive the code which is commited
+
+Undo and redo changes
+    git log
+    git revert <hash> // creates  a new commit to undo changes
+    :q
+    git reset <hash> //commit will clean but  changes are as it is
+    git reset --soft <hash> //removes commits from history keeps changes
+    git reset --hard <hash> //removes commits from history removes changes
+
+Merging branches
+     git merge FeatureBranch
+     git log
+
+pull requests and code reviews
+    git branch
+    git push -f
+    git checkout FeatureBranch
+    git push -u origin FeatureBranch
+
+commands
+    git init // create a local remote repository in a folder
+    git remote add //add a new remote repository to the project
+    git diff sourceBranch targetBranch // shows the difference  between two branches
+    git tag // create a snapshot of the project in certain time
+    git stash
+    git stash pop // retive changes from stash and reapply it  
+    git rebase // takes the commits in main branch and applys it in current branch
+    git clean // removes untracked files
+
+
+

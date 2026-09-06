@@ -1,0 +1,6 @@
+Course Repo and Software Installations
+This is required reading to be successful in the course.
+
+1. First, the official course repository: https://github.com/15Dkatz/ReactJS_VideoGuides
+
+2. Also, check out the commit-by-lecture guide to the course. This will give you a checkpoint at every lecture in case you need to troubleshoot your code: https://github.com/15Dkatz/react-essentials-bootcamp-commits
